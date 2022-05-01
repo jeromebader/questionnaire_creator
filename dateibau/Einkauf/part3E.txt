@@ -1,0 +1,34 @@
+   <td bgcolor='#a3aefc' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;</td></tr></tbody></table></ P> </h2>
+<p>&nbsp;</p>
+</body>
+";
+}
+
+if(!empty($_POST['RadioQuestion1']) and !empty($_POST['RadioQuestion2']) and !empty($_POST['RadioQuestion3']) and !empty($_POST['RadioQuestion4']) and !empty($_POST['RadioQuestion6']) and !empty($_POST['RadioQuestion7']) and !empty($_POST['RadioQuestion8']) and !empty($_POST['RadioQuestion9']) and !empty($_POST['RadioQuestion10']))
+{
+echo "<b> Das Formular wurde genutzt!</b><b><b>";
+echo "Folgende Daten wurden �bertragen:<br>";
+$wert = $_POST['ProjektID'];
+$wert2 = $_POST['RadioQuestion1'];
+$wert3 = $_POST['RadioQuestion2'];
+$wert4 = $_POST['RadioQuestion3'];
+$wert5 = $_POST['RadioQuestion4'];
+$wert6 = $_POST['RadioQuestion5'];
+$wert7 = $_POST['RadioQuestion6'];
+$wert8 = $_POST['RadioQuestion7'];
+$wert9 = $_POST['RadioQuestion8'];
+$wert10 = $_POST['RadioQuestion9'];
+$wert11 = $_POST['RadioQuestion10'];
+$sql = "INSERT INTO `testdatabase`.`einkauffragebogen` (`AntwortID`, `ProjektID`, `Antwort1`, `Antwort2`, `Antwort3`, `Antwort4`, `Antwort5`, `Antwort6`, `Antwort7`, `Antwort8`, `Antwort9`, `Antwort10`, `FragebogenDate`) VALUES (NULL, '$wert', '$wert2', '$wert3', '$wert4', '$wert5', '$wert6', '$wert7', '$wert8', '$wert9', '$wert10', '$wert11', '$datum')";
+mysqli_query($con,$sql);
+mysqli_close($con);
+
+while(list($Buttonfeld,$feldwert) = each($_POST))
+echo "Die Frage $Buttonfeld hat den Wert $feldwert <br>";
+}
+else 
+{
+formular();
+}
+?>

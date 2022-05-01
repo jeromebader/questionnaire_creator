@@ -1,0 +1,146 @@
+ <p> &nbsp;</p>
+      <p align='center'><strong><font face='Arial'>Wie zufrieden sind Sie 
+      mit den Lieferanten im Projekt?</font></strong><br><br>überhaupt nicht 
+      &nbsp;<input name='RadioQuestion1' value='1' type='radio' 
+      > 1<input name='RadioQuestion1' value='2' type='radio' 
+      > 2<input name='RadioQuestion1' value='3' type='radio' 
+      > 3<input name='RadioQuestion1' value='4' type='radio' 
+      > 4<input name='RadioQuestion1' value='5' type='radio' 
+      > 5<input name='RadioQuestion1' value='6' type='radio' 
+      > 6<input name='RadioQuestion1' value='7' type='radio' 
+      > 7<input name='RadioQuestion1' value='8' type='radio' 
+      > 8<input name='RadioQuestion1' value='9' type='radio' 
+      > 9<input name='RadioQuestion1' value='10' type='radio' 
+      > 
+      10&nbsp; sehr</p>
+      <p align='center'><strong><font face='Arial'>  
+         Werden die 
+      Liefertermine&nbsp;eingehalten?</font></strong><br><br>überhaupt nicht &nbsp;<input name='RadioQuestion2' value='1' type='radio' 
+      > 1<input name='RadioQuestion2' value='2' type='radio' 
+      > 2<input name='RadioQuestion2' value='3' type='radio' 
+      > 3<input name='RadioQuestion2' value='4' type='radio' 
+      > 4<input name='RadioQuestion2' value='5' type='radio' 
+      > 5<input name='RadioQuestion2' value='6' type='radio' 
+      > 6<input name='RadioQuestion2' value='7' type='radio' 
+      > 7<input name='RadioQuestion2' value='8' type='radio' 
+      > 8<input name='RadioQuestion2' value='9' type='radio' 
+      > 9<input name='RadioQuestion2' value='10' type='radio' 
+      > 10&nbsp; 
+      immer</p>
+      <p align='center'><strong><font 
+      face=Arial>&nbsp;Wie ist die Qualität&nbsp;der gelieferten&nbsp;Produkte durch die&nbsp;Lieferanten?</font></strong> </p>
+      <p align='center'>sehr&nbsp;niedrig&nbsp;&nbsp;<input name='RadioQuestion3' value='1' type='radio' 
+      > 1<input name='RadioQuestion3' value='2' type='radio' 
+      > 2<input name='RadioQuestion3' value='3' type='radio' 
+      > 3<input name='RadioQuestion3' value='4' type='radio' 
+      > 4<input name='RadioQuestion3' value='5' type='radio' 
+      > 5<input name='RadioQuestion3' value='6' type='radio' 
+      > 6<input name='RadioQuestion3' value='7' type='radio' 
+      > 7<input name='RadioQuestion3' value='8' type='radio' 
+      > 8<input name='RadioQuestion3' value='9' type='radio' 
+      > 9<input name='RadioQuestion3' value='10' type='radio' 
+      > 10&nbsp; sehr 
+      hoch</p>
+      <p align='center'><font face='Arial'><strong> 
+        Wie beurteilen 
+        Sie die aktuellen&nbsp;Lieferkonditionen der Lieferanten?</strong></font> </p>
+      <p align='center'>ungenügend &nbsp;&nbsp;<input name='RadioQuestion4' value='1' type='radio' 
+      > 1<input name='RadioQuestion4' value='2' type='radio' 
+      > 2<input name='RadioQuestion4' value='3' type='radio' 
+      > 3<input name='RadioQuestion4' value='4' type='radio' 
+      > 4<input name='RadioQuestion4' value='5' type='radio' 
+      > 5<input name='RadioQuestion4' value='6' type='radio' 
+      > 6<input name='RadioQuestion4' value='7' type='radio' 
+      > 7<input name='RadioQuestion4' value='8' type='radio' 
+      > 8<input name='RadioQuestion4' value='9' type='radio' 
+      > 9<input name='RadioQuestion4' value='10' type='radio' 
+      > 10 sehr 
+      gut</p>
+      <p align='center'><font face='Arial'><strong> 
+      Wie beurteilen 
+      Sie die Preise der Lieferanten?</strong></font> </p>
+      <p align='center'>zu hoch &nbsp;<input name='RadioQuestion5' value='1' type='radio' 
+      > 1<input name='RadioQuestion5' value='2' type='radio' 
+      > 2<input name='RadioQuestion5' value='3' type='radio' 
+      > 3<input name='RadioQuestion5' value='4' type='radio' 
+      > 4<input name='RadioQuestion5' value='5' type='radio' 
+      > 5<input name='RadioQuestion5' value='6' type='radio' 
+      > 6<input name='RadioQuestion5' value='7' type='radio' 
+      > 7<input name='RadioQuestion5' value='8' type='radio' 
+      > 8<input name='RadioQuestion5' value='9' type='radio' 
+      > 9<input name='RadioQuestion5' value='10' type='radio' 
+      > 10 sehr 
+      gut</p>
+      <p align='center'><font face='Arial'><strong>Wie beurteilen Sie die 
+      Qualität der&nbsp;Zusammenarbeit mit den Lieferanten?</strong></font> </p>
+      <p align='center'>ungenügend&nbsp;<input name='RadioQuestion6' value='1' type='radio' 
+      > 1<input name='RadioQuestion6' value='2' type='radio' 
+      > 2<input name='RadioQuestion6' value='3' type='radio' 
+      > 3<input name='RadioQuestion6' value='4' type='radio' 
+      > 4<input name='RadioQuestion6' value='5' type='radio' 
+      > 5<input name='RadioQuestion6' value='6' type='radio' 
+      > 6<input name='RadioQuestion6' value='7' type='radio' 
+      > 7<input name='RadioQuestion6' value='8' type='radio' 
+      > 8<input name='RadioQuestion6' value='9' type='radio' 
+      > 9<input name='RadioQuestion6' value='10' type='radio' 
+      > 10 sehr gut</p>
+      <p align='center'><font face='Arial'><strong>Wie beurteilen 
+      Sie die Abhängigkeit von den Lieferanten&nbsp;?</strong></font> </p>
+      <p align='center'>eher niedrig &nbsp;<input name='RadioQuestion7' value='1' type='radio' 
+      > 1<input name='RadioQuestion7' value='2' type='radio' 
+      > 2<input name='RadioQuestion7' value='3' type='radio' 
+      > 3<input name='RadioQuestion7' value='4' type='radio' 
+      > 4<input name='RadioQuestion7' value='5' type='radio' 
+      > 5<input name='RadioQuestion7' value='6' type='radio' 
+      > 6<input name='RadioQuestion7' value='7' type='radio' 
+      > 7<input name='RadioQuestion7' value='8' type='radio' 
+      > 8<input name='RadioQuestion7' value='9' type='radio' 
+      > 9<input name='RadioQuestion7' value='10' type='radio' 
+      > 10&nbsp; sehr hoch</p>
+      <p align='center'><font face='Arial'><strong>Setzen die 
+      Lieferanten QM Systeme ein?</strong></font> </p>
+      <p align='center'>eher&nbsp;nicht&nbsp;&nbsp;<input name='RadioQuestion8' value='1' type='radio' 
+      > 1<input name='RadioQuestion8' value='2' type='radio' 
+      > 2<input name='RadioQuestion8' value='3' type='radio' 
+      > 3<input name='RadioQuestion8' value='4' type='radio' 
+      > 4<input name='RadioQuestion8' value='5' type='radio' 
+      > 5<input name='RadioQuestion8' value='6' type='radio' 
+      > 6<input name='RadioQuestion8' value='7' type='radio' 
+      > 7<input name='RadioQuestion8' value='8' type='radio' 
+      > 8<input name='RadioQuestion8' value='9' type='radio' 
+      > 9<input name='RadioQuestion8' value='10' type='radio' 
+      >  10&nbsp; 
+      häufig</p>
+      <p align='center'><font face='Arial'><strong>  Wie beurteilen 
+      Sie 
+      die Flexibilität&nbsp;der Lieferanten ?</strong></font> </p>
+      <p align='center'>ungenügend<input name='RadioQuestion9' value='1' type='radio' 
+      > 1<input name='RadioQuestion9' value='2' type='radio' 
+      > 2<input name='RadioQuestion9' value='3' type='radio' 
+      > 3<input name='RadioQuestion9' value='4' type='radio' 
+      > 4<input name='RadioQuestion9' value='5' type='radio' 
+      > 5<input name='RadioQuestion9' value='6' type='radio' 
+      > 6<input name='RadioQuestion9' value='7' type='radio' 
+      > 7<input name='RadioQuestion9' value='8' type='radio' 
+      > 8<input name='RadioQuestion9' value='9' type='radio' 
+      > 9<input name='RadioQuestion9' value='10' type='radio' 
+      > 10 sehr gut</p>
+      <p align='center'><font face='Arial'><strong>Wie beurteilen Sie die 
+      Kommunikation mit den Lieferanten?</strong></font> </p>
+      <p align='center'>sehr schlecht &nbsp;<input name='RadioQuestion10' value='1' type='radio' 
+      > 1<input name='RadioQuestion10' value='2' type='radio' 
+      > 2<input name='RadioQuestion10' value='3' type='radio' 
+      > 3<input name='RadioQuestion10' value='4' type='radio' 
+      > 4<input name='RadioQuestion10' value='5' type='radio' 
+      >&nbsp;5<input name='RadioQuestion10' value='6' type='radio' 
+      > 6<input name='RadioQuestion10' value='7' type='radio' 
+      > 7<input name='RadioQuestion10' value='8' type='radio' 
+      > 8<input name='RadioQuestion10' value='9' type='radio' 
+      > 9<input name='RadioQuestion10' value='10' type='radio' 
+      > 10 sehr 
+      gut</p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
