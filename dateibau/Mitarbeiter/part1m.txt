@@ -1,0 +1,13 @@
+<?PHP
+
+include("access.php");
+$datum = date("Y.m.d");
+$timestamp = time();
+
+function formular()
+{
+
+echo "
+<body bgcolor='#ffffff'>
+<h1 align='center'>Mitarbeiterfragebogen</h1>
+<h2 align='left'>
