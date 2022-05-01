@@ -1,0 +1,15 @@
+<?PHP
+
+include("access.php");
+$datum = date("Y.m.d");
+$timestamp = time();
+
+function formular()
+{
+
+echo "
+<title>Kundenfragebogen</title>
+</head>
+<body bgcolor='#f8f8f8'>
+<h1 align='center'>Kundenfragebogen</h1>
+<h2 align='left'>
